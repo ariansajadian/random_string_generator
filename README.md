@@ -28,6 +28,3 @@ Install the dependencies
 ```sh
 pip install random_string_generator
 ```
-
-
-"# random_string_generator" 
